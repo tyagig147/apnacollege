@@ -1,2 +1,3 @@
 # apnacollege
-this is mu first git repo
+this is my first git repo
+Author - ABHAY tyagi
